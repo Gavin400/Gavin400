@@ -82,7 +82,7 @@ Scalable certification platform built with .NET 9, Angular 19, and Azure.
 
 [🔗 View Project](https://github.com/Gavin400/SmartCertifyApp)
 
-<img src="https://github.com/Gavin400/SmartCertifyApp/raw/main/preview.png" alt="Smart Certify Screenshot" width="90%"/>
+
 
 ---
 
@@ -91,7 +91,7 @@ Full-stack app using SignalR for chat, JWT auth, Azure SQL & CI/CD.
 
 [🔗 View Project](https://github.com/Gavin400/dating-app-2025)
 
-<img src="https://github.com/Gavin400/dating-app-2025/raw/main/screenshot.png" alt="Dating App Screenshot" width="90%"/>
+
 
 ---
 
