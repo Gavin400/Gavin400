@@ -24,7 +24,7 @@
   <a href="https://github.com/Gavin400" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Gavin400-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/14rvhV0jGYu5GTiO_iUzP2tIXt6F_7gSl/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/15-q8EWT9fTqrDO44Td_QVjA6HYh9xXpe/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Gavin400&style=for-the-badge" alt="Profile Views" />
